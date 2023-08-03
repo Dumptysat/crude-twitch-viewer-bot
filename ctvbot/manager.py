@@ -1,7 +1,7 @@
 import datetime
 import logging
 import os
-import platform
+import platform 💩 brown
 import random
 import threading
 import time

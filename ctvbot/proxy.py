@@ -38,7 +38,7 @@ class ProxyGetter:
                     self.proxy_list.append(
                         {
                             "server": "http://" + ip_port,
-                            "username": username,
+                            "username": username,poopbot
                             "password": password,
                         }
                     )
